@@ -329,7 +329,8 @@ ul li {
   min-height: 100vh;
   position: relative;
   text-align: center;
-  background: url(../images/backgrounds/header.png) no-repeat center center/contain #3471b7;
+  background: url(../images/backgrounds/header.png) no-repeat center center/contain,linear-gradient(to right, #44c904, #dacd22);
+  background: ;
   display: table;
 }
 .site-header::before {
